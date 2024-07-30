@@ -9,4 +9,5 @@ langchain-community
 langchain_google_genai
 google-generativeai
 python-dotenv
-
+GoogleGenerativeAIEmbeddings
+FAISS
