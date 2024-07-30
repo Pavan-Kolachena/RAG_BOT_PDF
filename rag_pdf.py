@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1nuSaC3RD5fhR_erb7CVaeu2cd2YDsu8q
 """
 
-!pip install streamlit
-!pip install PyPDF2
-!pip install langchain
-!pip install langchain_google_genai
-!pip install google-generativeai
-!pip install python-dotenv
-!pip install langchain-community
+#!pip install streamlit
+#!pip install PyPDF2
+#!pip install langchain
+#!pip install langchain_google_genai
+#!pip install google-generativeai
+#!pip install python-dotenv
+#!pip install langchain-community
 
 import streamlit as st
 from PyPDF2 import PdfReader
