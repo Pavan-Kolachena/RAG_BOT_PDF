@@ -14,6 +14,7 @@ Original file is located at
 #!pip install google-generativeai
 #!pip install python-dotenv
 #!pip install langchain-community
+pip install -U langchain-community
 
 import streamlit as st
 from PyPDF2 import PdfReader
