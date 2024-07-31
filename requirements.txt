@@ -6,7 +6,7 @@ streamlit
 PyPDF2
 langchain-google-genai==1.0.7
 langchain-community==0.0.28
-langchain-core>=0.2.0 and >=0.1.31
+langchain-core
 
 google-generativeai
 python-dotenv
