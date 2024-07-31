@@ -6,6 +6,6 @@ PyPDF2
 langchain-google-genai
 langchain-core
 google-generativeai
-pip>=24.2
-python<=3.5
+pip
+python
 
