@@ -4,7 +4,7 @@ huggingface_hub
 python-dotenv
 streamlit
 PyPDF2
-langchain-google-genai=<0.3 and >=0.2.9
+langchain-google-genai<0.3 and >=0.2.9
 langchain-community=<0.2.0 and >=0.1.31
 langchain-core
 
