@@ -10,5 +10,5 @@ langchain-core
 
 google-generativeai
 python-dotenv
-pip>=24.0
+pip>=24.2
 
