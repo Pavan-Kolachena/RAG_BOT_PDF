@@ -6,5 +6,6 @@ PyPDF2
 langchain-google-genai
 langchain-core
 google-generativeai
+langchain
 
 
