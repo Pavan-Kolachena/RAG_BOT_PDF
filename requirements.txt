@@ -1,10 +1,10 @@
 openai
 huggingface_hub
 python-dotenv
-streamlit==1.0.0
+streamlit
 PyPDF2
 langchain-google-genai
-langchain-community>=0.1.31,<0.2.0
+langchain-community
 langchain-core
 google-generativeai
 python-dotenv
