@@ -1,0 +1,16 @@
+```
+name: Update Pip
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-pip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Pip
+        run: |
+          pip install --upgrade pip
+```update-pip.yml
