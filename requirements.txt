@@ -5,10 +5,10 @@ python-dotenv
 streamlit
 PyPDF2
 langchain-google-genai>=0.2.9,<0.3
-langchain-community=<0.2.0,>=0.1.31
+langchain-community<0.2.0,>=0.1.31
 langchain-core
 
 google-generativeai
 python-dotenv
-
+pip>=24.0
 
