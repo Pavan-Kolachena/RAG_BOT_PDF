@@ -8,6 +8,6 @@ langchain-core
 google-generativeai
 langchain
 langchain_community
-pydantic
+Pydantic
 
 
