@@ -9,5 +9,6 @@ google-generativeai
 langchain
 langchain_community
 Pydantic
+SentenceTransformer
 
 
